@@ -20,3 +20,6 @@ Functions defined:
 
   static TypingText.runAll():
     Run all TypingText-enabled objects on the page.
+    
+# Demo
+![Screenshot from 2020-05-31 13-42-48](https://user-images.githubusercontent.com/51980747/83345414-5efe0c80-a345-11ea-9bc0-53a46e272c19.png)
